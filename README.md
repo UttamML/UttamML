@@ -2,8 +2,6 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ML Learners
-- 📫 How to reach me 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am currently learning but i belive that one day i will be a ML engineer.
 
 <!---
